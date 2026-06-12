@@ -132,12 +132,7 @@ Full-Stack Development   ██████████████░░░░�
 
 <div align="center">
 
-```yaml
-# Add this GitHub Action to generate the snake animation:
-# https://github.com/Platane/snk
-```
-
-<img src="https://raw.githubusercontent.com/Hellie-tenny/Hellie-tenny/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Hellie-tenny/Hellie-tenny/output/github-contribution-grid-snake.svg)
 
 </div>
 
