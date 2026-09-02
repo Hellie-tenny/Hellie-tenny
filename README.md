@@ -12,8 +12,8 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 🇲🇼 Software Developer based in Malawi
-* Building modern web applications with React, Vite, Firebase, and Tailwind CSS
+* Software Developer based in Malawi
+* Building modern digital solutions
 * Experienced with Java and Python development
 * Currently improving backend development and full-stack engineering skills
 * Passionate about creating practical solutions that solve real-world problems
@@ -91,27 +91,13 @@
 
 ---
 
-## 🚧 Current Journey
-
-```text
-Frontend Development     ████████████████████░   95%
-React Ecosystem          ███████████████████░░   90%
-Firebase                 █████████████████░░░   85%
-Java                     █████████████████░░░   85%
-Python                   ████████████████░░░░   80%
-Backend Development      ████████████░░░░░░░░   60%
-Full-Stack Development   ██████████████░░░░░░   70%
-```
-
----
-
 ## 🌟 What I'm Building
 
 - 💻 Modern React applications
 - 🔥 Firebase-powered web solutions
 - 📱 Responsive and user-friendly interfaces
 - ⚙️ Full-stack development projects
-- 🚀 Personal projects to sharpen skills
+- 🚀 Personal projects
 - 💼 Freelance-ready solutions
 
 ---
@@ -121,7 +107,7 @@ Full-Stack Development   ██████████████░░░░�
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hellie-tenny)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hellingsmakonetsa@gmail.com)
 
 </div>
